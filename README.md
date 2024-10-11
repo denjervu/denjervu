@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Denis Zherebtsov.
-- 👀 I’m interested in testing.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me: telegram: @zherebtsovdd
+🕵️🐞 Hi, I’m Denis Jerebtsov? QA specialist
