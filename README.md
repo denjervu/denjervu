@@ -1,1 +1,1 @@
-🕵️🐞 Hi, I’m Denis Jerebtsov? QA specialist
+🕵️🐞 Hi, I’m Denis Jerebtsov, QA specialist
