@@ -2,7 +2,7 @@
 
 # 📁 [Мое портфолио](https://github.com/denjervu/qa-portfolio)
 
-# 📜 Мои сертификаты
+# 📜 [Мои сертификаты](https://github.com/denjervu/my-certificates)
 
 # 🛠 Мой стек для решения задач:
 Jira · DevTools · Postman · Swagger · Тестирование API (REST, SOAP) 
