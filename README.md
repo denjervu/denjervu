@@ -14,7 +14,7 @@ QA-инженер с опытом более года в ручном тести
 
 ### [API тестирование](https://github.com/denjervu/qa-portfolio/tree/main/api-testing#readme)
 
-### [SQL запросы]((https://github.com/denjervu/qa-portfolio/tree/main/sql#readme))
+### [SQL запросы](https://github.com/denjervu/qa-portfolio/tree/main/sql#readme)
 
 ### [Авто-тесты](https://github.com/denjervu/qa-portfolio/tree/main/auto-tests#readme)
 
